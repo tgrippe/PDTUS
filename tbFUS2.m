@@ -1,7 +1,5 @@
 
 
-%%NOTE: This is the one Ke and Anton tested that works
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %         Ultrasound Neuromodulation MAIN Script.  v1.3  Nov 19, 2018
